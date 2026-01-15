@@ -1,0 +1,6 @@
+streamlit
+boto3
+langchain-core
+langchain-community
+langchain-text-splitters
+faiss-cpu
