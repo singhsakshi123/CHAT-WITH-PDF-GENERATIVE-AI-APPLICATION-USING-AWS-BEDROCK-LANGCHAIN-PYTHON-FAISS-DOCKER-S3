@@ -47,7 +47,7 @@ This ensures responses are **fact-based and document-grounded**, minimizing hall
 - Amazon S3  
 - Docker 
 
-## Project Screenshots
+## 📸 Project Screenshots
 <div align="center">
   <img src="Visuals/Admin_Site.png" width="300"/>
   <img src="Visuals/User_Site_Q1.png" width="300"/>
